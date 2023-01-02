@@ -1,6 +1,6 @@
 package x;
 
-public class y {
+public class Y {
 
     public static void main(String[] args) {
 
